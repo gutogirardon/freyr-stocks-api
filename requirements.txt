@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+fastapi
+hypercorn
+requests-cache
+investpy
+yfinance
